@@ -54,8 +54,7 @@ dask @ file:///tmp/build/80754af9/dask-core_1617390489108/work
 decorator @ file:///tmp/build/80754af9/decorator_1617916966915/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
 diff-match-patch @ file:///tmp/build/80754af9/diff-match-patch_1594828741838/work
-distributed @ file:///C:/ci/distributed_1617384289923/work
-Django==3.2.6
+setuptools 
 docutils @ file:///C:/ci/docutils_1617481617511/work
 entrypoints==0.3
 ERAlchemy @ git+https://github.com/psychemedia/eralchemy.git@7b90be5e46e997006eff9ff8a287c7fa8cf9687c
