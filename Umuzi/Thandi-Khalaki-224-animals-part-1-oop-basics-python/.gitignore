@@ -1,0 +1,5 @@
+__pycache__
+.pytest_cache
+animal_class.egg-info
+src.egg-info
+.vscode
